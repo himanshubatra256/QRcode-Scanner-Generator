@@ -3,7 +3,8 @@ QRcode-Scanner-Generator
 QR code scanner and Generator. Scan qr codes , copy the result to clipboard, on a fast and a light app.
 Also you can make your own QR codes.
 
-This is a very small and lite android application for scanning the QR codes out there and making your own qr codes ,download and do stuff like -
+This is a very small and lite android application for scanning the QR codes out there and making your own qr codes ,download and do stuff like
+
 -scanning that WIFI code at the coffee shop
 -making your own qr code for WIFI Password
 -lite and Fast
